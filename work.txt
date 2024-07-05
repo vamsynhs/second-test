@@ -1,5 +1,2 @@
 Hi Capeta
-This  is my first learn of git
-This is the third commit
-this is cool
-now created second file
+
